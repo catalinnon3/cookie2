@@ -35,9 +35,9 @@ const random = require('random');
 
 const os = platform();
 
-let app_id = 7557583,
-	group_id = 197650790,
-	need_balance = false;
+let app_id = 7557573,
+	group_id = 197650766,
+	need_balance = true;
 
 let prefix = '___________';
 
