@@ -29,8 +29,6 @@ import e11 from './img/e11.png';
 import Lottie from 'react-lottie'
 import animDataCookie from './animations/cookie.json'
 
-import eruda from 'eruda';
-
 const random = require('random');
 
 const os = platform();
